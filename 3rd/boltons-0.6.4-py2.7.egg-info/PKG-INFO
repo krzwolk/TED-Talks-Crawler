@@ -1,0 +1,24 @@
+Metadata-Version: 1.1
+Name: boltons
+Version: 0.6.4
+Summary: When they're not builtins, they're boltons.
+Home-page: https://github.com/mahmoud/boltons
+Author: Mahmoud Hashemi
+Author-email: mahmoudrhashemi@gmail.com
+License: BSD
+Description: Functionality that should be in the standard library. Like
+        builtins, but Boltons.
+        
+        Otherwise known as, "everyone's util.py," but cleaned up and
+        tested.
+        
+        Contains over 125 BSD-licensed utility types and functions that can be
+        used as a package or independently. `Extensively documented on Read
+        the Docs <http://boltons.readthedocs.org>`_.
+        
+Platform: any
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Programming Language :: Python :: 2.6
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3.4
